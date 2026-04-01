@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <title>Baldur's Gate Archives | Highest Grossing Films</title>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700;900&family=MedievalSharp&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="parchment-bg"></div>
+    <div class="container">
+        <header class="header">
+            <h1>🎭 Baldur's Gate Archives<br><span>Chronicles of the Highest Grossing Films</span></h1>
+            <p class="subtitle">By the decree of the Cinematic Council</p>
+        </header>
+
+        <div class="scroll">
+            <div class="filters">
+                <div class="filter-group" style="flex:2;">
+                    <label>🔍 Search by title</label>
+                    <input type="text" id="searchTitle" placeholder="Enter film name...">
+                </div>
+                <div class="filter-group">
+                    <label>🌍 Country</label>
+                    <div class="custom-dropdown" id="countryDropdown">
+                        <div class="dropdown-button">
+                            <span id="selectedCountriesText">All countries</span>
+                            <span class="dropdown-arrow">▼</span>
+                        </div>
+                        <div class="dropdown-menu">
+                            <div id="countriesList"></div>
+                            <div class="dropdown-actions">
+                                <button id="selectAllCountriesBtn">Select all</button>
+                                <button id="clearCountriesBtn">Clear</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="filter-group">
+                    <label>🏰 Production company</label>
+                    <div class="custom-dropdown" id="companyDropdown">
+                        <div class="dropdown-button">
+                            <span id="selectedCompanyText">All companies</span>
+                            <span class="dropdown-arrow">▼</span>
+                        </div>
+                        <div class="dropdown-menu">
+                            <div id="companiesList"></div>
+                            <div class="dropdown-actions">
+                                <button id="clearCompanyBtn">Clear</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="filter-group">
+                    <label>🗣️ Language</label>
+                    <div class="custom-dropdown" id="languageDropdown">
+                        <div class="dropdown-button">
+                            <span id="selectedLanguagesText">All languages</span>
+                            <span class="dropdown-arrow">▼</span>
+                        </div>
+                        <div class="dropdown-menu">
+                            <div id="languagesList"></div>
+                            <div class="dropdown-actions">
+                                <button id="selectAllLanguagesBtn">Select all</button>
+                                <button id="clearLanguagesBtn">Clear</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="filter-group">
+                    <label>📜 Year from</label>
+                    <input type="number" id="yearFrom" placeholder="e.g. 1990">
+                </div>
+                <div class="filter-group">
+                    <label>📜 Year to</label>
+                    <input type="number" id="yearTo" placeholder="e.g. 2030">
+                </div>
+                <div class="stats" id="stats">Films: --</div>
+            </div>
+        </div>
+
+        <div class="charts-grid">
+            <div class="chart-card">
+                <h3>🏆 Average Box Office by Country</h3>
+                <canvas id="countryChart"></canvas>
+            </div>
+            <div class="chart-card">
+                <h3>🏆 Average Box Office by Language</h3>
+                <canvas id="languageChart"></canvas>
+            </div>
+            <div class="chart-card">
+                <h3>📅 Box Office & Films by Year</h3>
+                <canvas id="yearChart"></canvas>
+            </div>
+            <div class="chart-card">
+                <h3>🏢 Top Studios by Total Box Office</h3>
+                <canvas id="companyChart"></canvas>
+            </div>
+        </div>
+
+        <div class="table-wrapper">
+            <table id="filmsTable">
+                <thead>
+                    <tr>
+                        <th data-column="title">Title</th>
+                        <th data-column="release_year">Year</th>
+                        <th data-column="languages">Languages</th>
+                        <th data-column="directors">Directors</th>
+                        <th data-column="production_companies">Studio</th>
+                        <th data-column="country">Country</th>
+                        <th data-column="box_office">Box Office (USD)</th>
+                    </tr>
+                </thead>
+                <tbody id="tableBody">
+                    <tr><td colspan="7" class="no-data">Loading ancient records...</td></tr>
+                </tbody>
+            </table>
+        </div>
+        <footer class="footer">
+            <span>✧ Data extracted from the Grand Library (Wikipedia) ✧</span>
+            <span>Click on column headers to sort | Charts update with every filter</span>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

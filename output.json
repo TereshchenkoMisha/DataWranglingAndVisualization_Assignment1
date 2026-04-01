@@ -1,0 +1,502 @@
+[
+    {
+        "id": 1,
+        "title": "Avatar",
+        "languages": "English",
+        "release_year": 2009,
+        "directors": "James Cameron",
+        "production_companies": "20th Century Fox\nLightstorm Entertainment\nDune Entertainment\nIngenious Film Partners",
+        "country": "United States",
+        "box_office": 2924000000.0
+    },
+    {
+        "id": 2,
+        "title": "Avengers: Endgame",
+        "languages": "English",
+        "release_year": 2019,
+        "directors": "Anthony RussoJoe Russo",
+        "production_companies": "Marvel Studios",
+        "country": "United States",
+        "box_office": 2799000000.0
+    },
+    {
+        "id": 3,
+        "title": "Avatar: The Way of Water",
+        "languages": "English",
+        "release_year": 2022,
+        "directors": "James Cameron",
+        "production_companies": "20th Century Studios\nLightstorm Entertainment",
+        "country": "United States",
+        "box_office": 2334000000.0
+    },
+    {
+        "id": 4,
+        "title": "Titanic",
+        "languages": "English",
+        "release_year": 1997,
+        "directors": "James Cameron",
+        "production_companies": "Paramount Pictures\n20th Century Fox\nLightstorm Entertainment",
+        "country": "United States",
+        "box_office": 2264000000.0
+    },
+    {
+        "id": 5,
+        "title": "Ne Zha 2",
+        "languages": "Mandarin",
+        "release_year": 2025,
+        "directors": "Jiaozi",
+        "production_companies": "Chengdu Coco Cartoon\nBeijing Enlight Media\nBeijing Enlight Pictures\nChengdu Zizai Jingjie Culture Media\nBeijing Coloroom Technology",
+        "country": "China",
+        "box_office": 2216000000.0
+    },
+    {
+        "id": 6,
+        "title": "Star Wars: The Force Awakens",
+        "languages": "English",
+        "release_year": 2015,
+        "directors": "J. J. Abrams",
+        "production_companies": "Lucasfilm Ltd.\nBad Robot",
+        "country": "United States",
+        "box_office": 2071000000.0000002
+    },
+    {
+        "id": 7,
+        "title": "Avengers: Infinity War",
+        "languages": "English",
+        "release_year": 2018,
+        "directors": "Anthony RussoJoe Russo",
+        "production_companies": "Marvel Studios",
+        "country": "United States",
+        "box_office": 2052000000.0
+    },
+    {
+        "id": 8,
+        "title": "Spider-Man: No Way Home",
+        "languages": "English",
+        "release_year": 2021,
+        "directors": "Jon Watts",
+        "production_companies": "Columbia Pictures\nMarvel Studios\nPascal Pictures",
+        "country": "United States",
+        "box_office": 1921000000.0
+    },
+    {
+        "id": 9,
+        "title": "Zootopia 2 \u2020",
+        "languages": "English",
+        "release_year": 2025,
+        "directors": "Jared BushByron Howard",
+        "production_companies": "Walt Disney Animation Studios",
+        "country": "United States",
+        "box_office": 1868000000.0
+    },
+    {
+        "id": 10,
+        "title": "Inside Out 2",
+        "languages": "English",
+        "release_year": 2024,
+        "directors": "Kelsey Mann",
+        "production_companies": "Pixar Animation Studios",
+        "country": "United States",
+        "box_office": 1699000000.0
+    },
+    {
+        "id": 11,
+        "title": "Jurassic World",
+        "languages": "English",
+        "release_year": 2015,
+        "directors": "Colin Trevorrow",
+        "production_companies": "Universal Pictures\nAmblin Entertainment\nLegendary Pictures\nThe Kennedy/Marshall Company",
+        "country": "United States",
+        "box_office": 1671000000.0
+    },
+    {
+        "id": 12,
+        "title": "The Lion King",
+        "languages": "English",
+        "release_year": 2019,
+        "directors": "Jon Favreau",
+        "production_companies": "Walt Disney Pictures\nFairview Entertainment",
+        "country": "United States",
+        "box_office": 1657000000.0
+    },
+    {
+        "id": 13,
+        "title": "The Avengers",
+        "languages": "English",
+        "release_year": 2012,
+        "directors": "Joss Whedon",
+        "production_companies": "Marvel Studios",
+        "country": "United States",
+        "box_office": 1521000000.0
+    },
+    {
+        "id": 14,
+        "title": "Furious 7",
+        "languages": "English",
+        "release_year": 2015,
+        "directors": "James Wan",
+        "production_companies": "Original Film\nOne Race Films",
+        "country": "United States",
+        "box_office": 1515000000.0
+    },
+    {
+        "id": 15,
+        "title": "Top Gun: Maverick",
+        "languages": "English",
+        "release_year": 2022,
+        "directors": "Joseph Kosinski",
+        "production_companies": "Paramount Pictures\nSkydance Media\nTC Productions\nDon Simpson/Jerry Bruckheimer Films",
+        "country": "United States",
+        "box_office": 1496000000.0
+    },
+    {
+        "id": 16,
+        "title": "Avatar: Fire and Ash \u2020",
+        "languages": "English",
+        "release_year": 2025,
+        "directors": "James Cameron",
+        "production_companies": "Lightstorm Entertainment",
+        "country": "United States",
+        "box_office": 1488000000.0
+    },
+    {
+        "id": 17,
+        "title": "Frozen 2",
+        "languages": "English",
+        "release_year": 2019,
+        "directors": "Chris Buck\nJennifer Lee",
+        "production_companies": "Walt Disney Animation Studios",
+        "country": "United States",
+        "box_office": 1453000000.0
+    },
+    {
+        "id": 18,
+        "title": "Barbie",
+        "languages": "English",
+        "release_year": 2023,
+        "directors": "Greta Gerwig",
+        "production_companies": "Heyday Films\nLuckyChap Entertainment\nNB/GG Pictures\nMattel Films",
+        "country": "United States",
+        "box_office": 1448000000.0
+    },
+    {
+        "id": 19,
+        "title": "Avengers: Age of Ultron",
+        "languages": "English",
+        "release_year": 2015,
+        "directors": "Joss Whedon",
+        "production_companies": "Marvel Studios",
+        "country": "United States",
+        "box_office": 1405000000.0
+    },
+    {
+        "id": 20,
+        "title": "The Super Mario Bros. Movie",
+        "languages": "English",
+        "release_year": 2023,
+        "directors": "Aaron Horvath\nMichael Jelenic",
+        "production_companies": "Illumination\nNintendo",
+        "country": "United States",
+        "box_office": 1361000000.0
+    },
+    {
+        "id": 21,
+        "title": "Black Panther",
+        "languages": "English",
+        "release_year": 2018,
+        "directors": "Ryan Coogler",
+        "production_companies": "Marvel Studios",
+        "country": "United States",
+        "box_office": 1350000000.0
+    },
+    {
+        "id": 22,
+        "title": "Harry Potter and the Deathly Hallows \u2013 Part 2",
+        "languages": "English",
+        "release_year": 2011,
+        "directors": "David Yates",
+        "production_companies": "Warner Bros. Pictures\nHeyday Films",
+        "country": "United Kingdom",
+        "box_office": 1342000000.0
+    },
+    {
+        "id": 23,
+        "title": "Deadpool & Wolverine",
+        "languages": "English",
+        "release_year": 2024,
+        "directors": "Shawn Levy",
+        "production_companies": "Marvel Studios\nMaximum Effort\n21 Laps Entertainment",
+        "country": "United States",
+        "box_office": 1338000000.0
+    },
+    {
+        "id": 24,
+        "title": "Star Wars: The Last Jedi",
+        "languages": "English",
+        "release_year": 2017,
+        "directors": "Rian Johnson",
+        "production_companies": "Lucasfilm Ltd.",
+        "country": "United States",
+        "box_office": 1334000000.0
+    },
+    {
+        "id": 25,
+        "title": "Jurassic World: Fallen Kingdom",
+        "languages": "English",
+        "release_year": 2018,
+        "directors": "J. A. Bayona",
+        "production_companies": "Universal Pictures\nAmblin Entertainment\nLegendary Pictures\nThe Kennedy/Marshall Company\nPerfect World Pictures",
+        "country": "United States",
+        "box_office": 1310000000.0
+    },
+    {
+        "id": 26,
+        "title": "Frozen",
+        "languages": "English",
+        "release_year": 2013,
+        "directors": "Chris Buck\nJennifer Lee",
+        "production_companies": "Walt Disney Animation Studios",
+        "country": "United States",
+        "box_office": 1280000000.0
+    },
+    {
+        "id": 27,
+        "title": "Beauty and the Beast",
+        "languages": "English",
+        "release_year": 2017,
+        "directors": "Bill Condon",
+        "production_companies": "Walt Disney Pictures\nMandeville Films",
+        "country": "United States",
+        "box_office": 1266000000.0
+    },
+    {
+        "id": 28,
+        "title": "Incredibles 2",
+        "languages": "English",
+        "release_year": 2018,
+        "directors": "Brad Bird",
+        "production_companies": "Pixar Animation Studios",
+        "country": "United States",
+        "box_office": 1243000000.0
+    },
+    {
+        "id": 29,
+        "title": "The Fate of the Furious",
+        "languages": "English[3]",
+        "release_year": 2017,
+        "directors": "F. Gary Gray",
+        "production_companies": "Original Film\nOne Race Films",
+        "country": "United States",
+        "box_office": 1236000000.0
+    },
+    {
+        "id": 30,
+        "title": "Iron Man 3",
+        "languages": "English",
+        "release_year": 2013,
+        "directors": "Shane Black",
+        "production_companies": "Marvel Studios",
+        "country": "United States",
+        "box_office": 1215000000.0
+    },
+    {
+        "id": 31,
+        "title": "Minions",
+        "languages": "English",
+        "release_year": 2015,
+        "directors": "Pierre Coffin\nKyle Balda",
+        "production_companies": "Illumination Entertainment",
+        "country": "United States",
+        "box_office": 1159000000.0
+    },
+    {
+        "id": 32,
+        "title": "Captain America: Civil War",
+        "languages": "English",
+        "release_year": 2016,
+        "directors": "Anthony RussoJoe Russo",
+        "production_companies": "Marvel Studios",
+        "country": "United States",
+        "box_office": 1155000000.0
+    },
+    {
+        "id": 33,
+        "title": "Aquaman",
+        "languages": "English",
+        "release_year": 2018,
+        "directors": "James Wan",
+        "production_companies": "Warner Bros. Pictures\nDC Films\nThe Safran Company",
+        "country": "United States",
+        "box_office": 1152000000.0
+    },
+    {
+        "id": 34,
+        "title": "The Lord of the Rings: The Return of the King",
+        "languages": "English",
+        "release_year": 2003,
+        "directors": "Peter Jackson",
+        "production_companies": "WingNut Films\nNew Line Cinema",
+        "country": "New Zealand",
+        "box_office": 1148000000.0
+    },
+    {
+        "id": 35,
+        "title": "Spider-Man: Far From Home",
+        "languages": "English",
+        "release_year": 2019,
+        "directors": "Jon Watts",
+        "production_companies": "Columbia Pictures\nMarvel Studios\nPascal Pictures",
+        "country": "United States",
+        "box_office": 1133000000.0
+    },
+    {
+        "id": 36,
+        "title": "Captain Marvel",
+        "languages": "English",
+        "release_year": 2019,
+        "directors": "Anna BodenRyan Fleck",
+        "production_companies": "Marvel Studios",
+        "country": "United States",
+        "box_office": 1131000000.0
+    },
+    {
+        "id": 37,
+        "title": "Transformers: Dark of the Moon",
+        "languages": "English",
+        "release_year": 2011,
+        "directors": "Michael Bay",
+        "production_companies": "Paramount Pictures\nDreamWorks Pictures\nHasbro Studios\ndi Bonaventura Pictures",
+        "country": "United States",
+        "box_office": 1124000000.0
+    },
+    {
+        "id": 38,
+        "title": "Skyfall",
+        "languages": "English",
+        "release_year": 2012,
+        "directors": "Sam Mendes",
+        "production_companies": "Eon Productions\nMetro-Goldwyn-Mayer\nColumbia Pictures\nB23",
+        "country": "United Kingdom",
+        "box_office": 1109000000.0
+    },
+    {
+        "id": 39,
+        "title": "Transformers: Age of Extinction",
+        "languages": "English",
+        "release_year": 2014,
+        "directors": "Michael Bay",
+        "production_companies": "Paramount Pictures\nHasbro Studios\ndi Bonaventura Pictures\nChina Movie Channel\nJiaflix Enterprises",
+        "country": "United States",
+        "box_office": 1105000000.0
+    },
+    {
+        "id": 40,
+        "title": "The Dark Knight Rises",
+        "languages": "English",
+        "release_year": 2012,
+        "directors": "Christopher Nolan",
+        "production_companies": "Legendary Pictures\nDC Entertainment\nSyncopy",
+        "country": "United States",
+        "box_office": 1115000000.0
+    },
+    {
+        "id": 41,
+        "title": "Joker",
+        "languages": "English",
+        "release_year": 2019,
+        "directors": "Todd Phillips",
+        "production_companies": "Warner Bros. Pictures\nDC Films\nVillage Roadshow Pictures\nBron Creative\nJoint Effort",
+        "country": "United States",
+        "box_office": 1079000000.0
+    },
+    {
+        "id": 42,
+        "title": "Star Wars: The Rise of Skywalker",
+        "languages": "English",
+        "release_year": 2019,
+        "directors": "J. J. Abrams",
+        "production_companies": "Lucasfilm\nBad Robot",
+        "country": "United States",
+        "box_office": 1077000000.0
+    },
+    {
+        "id": 43,
+        "title": "Toy Story 4",
+        "languages": "English",
+        "release_year": 2019,
+        "directors": "Josh Cooley",
+        "production_companies": "Pixar Animation Studios",
+        "country": "United States",
+        "box_office": 1074000000.0
+    },
+    {
+        "id": 44,
+        "title": "Toy Story 3",
+        "languages": "English",
+        "release_year": 2010,
+        "directors": "Lee Unkrich",
+        "production_companies": "Pixar Animation Studios",
+        "country": "United States",
+        "box_office": 1067000000.0
+    },
+    {
+        "id": 45,
+        "title": "Pirates of the Caribbean: Dead Man's Chest",
+        "languages": "English",
+        "release_year": 2006,
+        "directors": "Gore Verbinski",
+        "production_companies": "Walt Disney Pictures\nJerry Bruckheimer Films",
+        "country": "United States",
+        "box_office": 1066000000.0
+    },
+    {
+        "id": 46,
+        "title": "Moana 2",
+        "languages": "English",
+        "release_year": 2024,
+        "directors": "David Derrick Jr.\nJason Hand\nDana Ledoux Miller",
+        "production_companies": "Walt Disney Animation Studios",
+        "country": "United States",
+        "box_office": 1059000000.0
+    },
+    {
+        "id": 47,
+        "title": "Rogue One: A Star Wars Story",
+        "languages": "English",
+        "release_year": 2016,
+        "directors": "Gareth Edwards",
+        "production_companies": "Lucasfilm Ltd.",
+        "country": "United States",
+        "box_office": 1059000000.0
+    },
+    {
+        "id": 48,
+        "title": "Aladdin",
+        "languages": "English",
+        "release_year": 2019,
+        "directors": "Guy Ritchie",
+        "production_companies": "Walt Disney Pictures\nRideback",
+        "country": "United States",
+        "box_office": 1054000000.0
+    },
+    {
+        "id": 49,
+        "title": "Star Wars: Episode I \u2013 The Phantom Menace",
+        "languages": "English",
+        "release_year": 1999,
+        "directors": "George Lucas",
+        "production_companies": "Lucasfilm Ltd.",
+        "country": "United States",
+        "box_office": 1046999999.9999999
+    },
+    {
+        "id": 50,
+        "title": "Pirates of the Caribbean: On Stranger Tides",
+        "languages": "English",
+        "release_year": 2011,
+        "directors": "Rob Marshall",
+        "production_companies": "Walt Disney Pictures\nJerry Bruckheimer Films",
+        "country": "United States",
+        "box_office": 1046000000.0
+    }
+]
